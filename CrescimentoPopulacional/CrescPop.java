@@ -2,7 +2,7 @@ package CrescimentoPopulacional;
 
 import java.util.Scanner;
 
-public class CrescimentoPopulacional {
+public class CrescPop {
 
     public static void main(String[]args){
 
